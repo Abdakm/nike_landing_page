@@ -4,7 +4,7 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
-  theme: {
+  theme: {// in theme it is allready found in tailwind but I want to update its values 
     fontSize: {
       xs: ['12px', '16px'],
       sm: ['14px', '20px'],
